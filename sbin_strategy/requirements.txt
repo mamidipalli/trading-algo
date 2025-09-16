@@ -1,0 +1,5 @@
+pandas
+numpy
+ta
+playsound==1.2.2
+kiteconnect
